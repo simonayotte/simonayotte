@@ -1,7 +1,12 @@
 ## Hello, I'm Simon 👋
 
-I'm a Full-Stack developer based in Montreal. I'm interested in design systems, microservices, user/dev experience.
+Full Stack Developer | I'm interested in design systems, microservices, user/dev experience.
 
+- 🔭 I’m currently building a Pinterest/MyMind alternative with Next.js
+- 🌱 I’m currently learning Go, Zig
+- 📍 Based in Montreal, Canada
+
+Always looking to collaborate on interesting projects!
 
 <!--
 **simonayotte/simonayotte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
